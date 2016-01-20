@@ -1,4 +1,2 @@
-#include <stdio.h>
-main()
-{printf("Hello World!\n");
-}
+#hello-world
+what the hell
